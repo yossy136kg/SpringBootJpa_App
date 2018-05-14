@@ -1,0 +1,3 @@
+com\example\entity\TestEntity.class
+com\example\YmSpringBootJpaAppApplication.class
+com\example\repository\TestRepository.class
